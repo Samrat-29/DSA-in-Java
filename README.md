@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Samrat-29/DSA-in-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0877-stone-game](https://github.com/Samrat-29/DSA-in-Java/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Samrat-29/DSA-in-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/Samrat-29/DSA-in-Java/tree/master/1929-concatenation-of-array) |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Samrat-29/DSA-in-Java/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Samrat-29/DSA-in-Java/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
