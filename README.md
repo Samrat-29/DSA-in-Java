@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Samrat-29/DSA-in-Java/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Samrat-29/DSA-in-Java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Samrat-29/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Samrat-29/DSA-in-Java/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Samrat-29/DSA-in-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Samrat-29/DSA-in-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Samrat-29/DSA-in-Java/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Samrat-29/DSA-in-Java/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Samrat-29/DSA-in-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Samrat-29/DSA-in-Java/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Samrat-29/DSA-in-Java/tree/master/0704-binary-search) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Samrat-29/DSA-in-Java/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Samrat-29/DSA-in-Java/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
