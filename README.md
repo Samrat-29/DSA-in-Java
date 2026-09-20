@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Samrat-29/DSA-in-Java/tree/master/0169-majority-element) |
+| [0771-jewels-and-stones](https://github.com/Samrat-29/DSA-in-Java/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Samrat-29/DSA-in-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
@@ -130,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Samrat-29/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Samrat-29/DSA-in-Java/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Samrat-29/DSA-in-Java/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Samrat-29/DSA-in-Java/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
