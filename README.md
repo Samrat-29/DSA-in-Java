@@ -132,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Samrat-29/DSA-in-Java/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Samrat-29/DSA-in-Java/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Samrat-29/DSA-in-Java/tree/master/0771-jewels-and-stones) |
+| [1108-defanging-an-ip-address](https://github.com/Samrat-29/DSA-in-Java/tree/master/1108-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
