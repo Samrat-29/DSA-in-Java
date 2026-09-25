@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Samrat-29/DSA-in-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Samrat-29/DSA-in-Java/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Samrat-29/DSA-in-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Samrat-29/DSA-in-Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Samrat-29/DSA-in-Java/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Samrat-29/DSA-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Samrat-29/DSA-in-Java/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -134,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Samrat-29/DSA-in-Java/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Samrat-29/DSA-in-Java/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Samrat-29/DSA-in-Java/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Samrat-29/DSA-in-Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Samrat-29/DSA-in-Java/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
